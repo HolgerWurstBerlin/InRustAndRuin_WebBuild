@@ -1,9 +1,9 @@
 const cacheName = "Holger made a game-In Rust _ Ruin-0.25";
 const contentToCache = [
-    "Build/InRustAndRuin_WebBuild.loader.js",
-    "Build/InRustAndRuin_WebBuild.framework.js.unityweb",
-    "Build/InRustAndRuin_WebBuild.data.unityweb",
-    "Build/InRustAndRuin_WebBuild.wasm.unityweb",
+    "Build/Scrapknight.loader.js",
+    "Build/Scrapknight.framework.js.unityweb",
+    "Build/Scrapknight.data.unityweb",
+    "Build/Scrapknight.wasm.unityweb",
     "TemplateData/style.css"
 
 ];

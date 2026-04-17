@@ -1,4 +1,4 @@
-const cacheName = "Holger made a game-In Rust _ Ruin-0.25";
+const cacheName = "Holger made a game-In Rust _ Ruin-0.27";
 const contentToCache = [
     "Build/Scrapknight.loader.js",
     "Build/Scrapknight.framework.js.unityweb",
